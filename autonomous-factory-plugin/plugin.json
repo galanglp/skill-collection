@@ -1,0 +1,5 @@
+{
+  "name": "autonomous-factory-plugin",
+  "description": "State-driven autonomous software factory Orchestrator, Agents, and Workflows.",
+  "version": "1.0.0"
+}

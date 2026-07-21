@@ -1,0 +1,14 @@
+{
+  "feature_name": "",
+  "current_phase": "PRODUCT_OWNER",
+  "retry_counts": {
+    "security": 0,
+    "performance": 0,
+    "review": 0,
+    "qa": 0
+  },
+  "max_retries": 3,
+  "history": [],
+  "latest_findings": [],
+  "latest_failed_tests": []
+}
